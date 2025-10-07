@@ -1,10 +1,10 @@
 🗂 Project Structure
 personal_budget_manager/
 │
-├── data_manager.py
-├── budget_manager.py
-├── report_manager.py
-├── ui_manager.py
+├── data_manager.py ---Kosar
+├── budget_manager.py---Ali
+├── report_manager.py---- Hampus
+├── ui_manager.py-----Pontus
 └── main.py
 
 🧱 data_manager.py
